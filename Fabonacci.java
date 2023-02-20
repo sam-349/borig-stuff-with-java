@@ -18,7 +18,7 @@ public class Fabonacci {
             f0 = f1;
             f1 = f2;
         }
-        // System.out.println("Sum of even Fabonicci series: " + sum);
+        // System.out.println("Sum of even Fabonicci series: " + sum); to get sum 
 
     }
 }
